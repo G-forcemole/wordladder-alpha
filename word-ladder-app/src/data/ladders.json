@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "start_word": "cold",
+    "end_word": "warm",
+    "steps": ["cold", "cord", "word", "ward", "warm"],
+    "difficulty": "easy",
+    "word_length": 4
+  },
+  {
+    "id": 2,
+    "start_word": "head",
+    "end_word": "tail",
+    "steps": ["head", "heal", "teal", "tell", "tall", "tail"],
+    "difficulty": "medium",
+    "word_length": 4
+  },
+  {
+    "id": 3,
+    "start_word": "smile",
+    "end_word": "smock",
+    "steps": ["smile", "smite", "spite", "spike", "spoke", "smoke", "smock"],
+    "difficulty": "hard",
+    "word_length": 5
+  }
+]
