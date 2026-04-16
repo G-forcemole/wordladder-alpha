@@ -8,16 +8,16 @@
   },
   {
     "id": 2,
-    "start_word": "head",
-    "end_word": "tail",
-    "words": ["head", "heal", "teal", "tell", "tall", "tail"],
-    "change_indices": [3, 0, 2, 1, 2]
+    "start_word": "bat",
+    "end_word": "did",
+    "words": ["bat", "bad", "dad", "did"],
+    "change_indices": [2, 0, 1]
   },
   {
     "id": 3,
-    "start_word": "smile",
-    "end_word": "smoke",
-    "words": ["smile", "smite", "spite", "spike", "spoke", "smoke"],
-    "change_indices": [3, 1, 3, 2, 1]
+    "start_word": "fit",
+    "end_word": "pan",
+    "words": ["fit", "fin", "pin", "pan"],
+    "change_indices": [2, 0, 1]
   }
 ]
