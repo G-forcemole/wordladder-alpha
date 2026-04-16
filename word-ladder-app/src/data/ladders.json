@@ -1,26 +1,23 @@
 [
   {
     "id": 1,
-    "start_word": "cold",
-    "end_word": "warm",
-    "steps": ["cold", "cord", "word", "ward", "warm"],
-    "difficulty": "easy",
-    "word_length": 4
+    "start_word": "bats",
+    "end_word": "pots",
+    "words": ["bats", "bets", "pets", "pots"],
+    "change_indices": [1, 0, 1]
   },
   {
     "id": 2,
     "start_word": "head",
     "end_word": "tail",
-    "steps": ["head", "heal", "teal", "tell", "tall", "tail"],
-    "difficulty": "medium",
-    "word_length": 4
+    "words": ["head", "heal", "teal", "tell", "tall", "tail"],
+    "change_indices": [3, 0, 2, 1, 2]
   },
   {
     "id": 3,
     "start_word": "smile",
-    "end_word": "smock",
-    "steps": ["smile", "smite", "spite", "spike", "spoke", "smoke", "smock"],
-    "difficulty": "hard",
-    "word_length": 5
+    "end_word": "smoke",
+    "words": ["smile", "smite", "spite", "spike", "spoke", "smoke"],
+    "change_indices": [3, 1, 3, 2, 1]
   }
 ]
